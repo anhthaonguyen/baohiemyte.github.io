@@ -1,3 +1,11 @@
+pip install -r requirements.txt
+streamlit==1.24.1
+scikit-learn==1.1.3
+pandas>=2.0
+numpy==1.24.3
+setuptools
+wheel
+
 #importing Necessary Libraries
 
 import numpy as np
